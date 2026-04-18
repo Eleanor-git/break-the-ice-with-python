@@ -1,6 +1,7 @@
 # Break The Ice With Python
 
 ### A journey of 100+ simple yet interesting problems which are explained, solved, discussed in different pythonic ways
+This excercise is forked from [darkprinx](https://github.com/darkprinx/break-the-ice-with-python)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/darkprinx/100-plus-Python-programming-exercises-extended/master?filepath=notebooks%2F)<br>
 [![Deepnote](https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg
@@ -91,13 +92,3 @@
 * **[Day 23](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_23.md "Day 23 Status")**- ***Question 95-99***
 
 * **[Day 24](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended/blob/master/Status/Day_24.md "Day 24 Status")**- ***Question 100-103***
-
-
-
----
-
-## 🌱 Empower dedication with your generosity
-#### Every single coffee boosts towards greater motivation, turning compassion into action. Show your kind support with just a little click! 😃
-
-<a href="https://www.buymeacoffee.com/darkprinx" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
