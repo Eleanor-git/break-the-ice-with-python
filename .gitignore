@@ -102,3 +102,4 @@ ENV/
 .mypy_cache/
 
 clean_files.py
+DS_Store
